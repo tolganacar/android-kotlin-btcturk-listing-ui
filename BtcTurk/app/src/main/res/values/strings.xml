@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BtcTurk</string>
+    <string name="isim">İSİM</string>
+    <string name="hacim">HACİM</string>
+    <string name="degisim">DEĞİŞİM</string>
+    <string name="fiyat">FİYAT</string>
+    <string name="usdt">/ USDT</string>
+    <string name="edittext_hint"><font size="13">Arama</font></string>
+    <string name="try_text">TRY</string>
+    <string name="usdt_text">USDT</string>
+    <string name="all">HEPSİ</string>
+    <string name="tumu">Tümü</string>
+    <string name="yapay_zeka">Yapay Zeka</string>
+    <string name="metaverse">Metaverse</string>
+    <string name="fan_token">Fan Token</string>
+    <string name="meme">Meme</string>
+    <string name="oyun">Oyun</string>
+    <string name="web3">Web3</string>
+    <string name="defi">DeFi</string>
+    <string name="fiyatlar">Fiyatlar</string>
+    <string name="fiyatlar_bottom"><font size="10">Fiyatlar</font></string>
+    <string name="varliklarim"><font size="10">Varlıklarım</font></string>
+    <string name="al_sat"><font size="10">Al-Sat</font></string>
+    <string name="yatir_cek"><font size="10">Yatır-Çek</font></string>
+    <string name="hesap"><font size="10">Hesap</font></string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainPageFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/price"
+        android:title="@string/fiyatlar_bottom" />
+    <item
+        android:id="@+id/varliklarim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/asset"
+        android:title="@string/varliklarim" />
+    <item
+        android:id="@+id/alsat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/buysell"
+        android:title="@string/al_sat" />
+    <item
+        android:id="@+id/yatircek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/bank"
+        android:title="@string/yatir_cek" />
+    <item
+        android:id="@+id/hesap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/account"
+        android:title="@string/hesap" />
+</menu>

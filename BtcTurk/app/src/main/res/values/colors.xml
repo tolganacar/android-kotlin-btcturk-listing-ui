@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#0B0F1A</color>
+    <color name="statusBarColor">#050914</color>
+    <color name="dividerColor">#141E2E</color>
+    <color name="tabTextColor">#848DA2</color>
+    <color name="searchViewBackground">#060910</color>
+    <color name="sortTextColor">#8690A6</color>
+    <color name="usdtTextColor">#878FA5</color>
+    <color name="cryptoFullNameTextColor">#848FA5</color>
+    <color name="changeTextColor">#ECF7F1</color>
+    <color name="volumeTextColor">#858FA4</color>
+    <color name="shortCryptoNameTextColor">#EFF3F6</color>
+    <color name="cryptoPriceTextColor">#F1F4F8</color>
+    <color name="cardViewChangeGreenColor">#63A35A</color>
+    <color name="cardViewChangeRedColor">#AC3F3E</color>
+    <color name="pairRadioButtonColor">#070910</color>
+    <color name="pairRadioButtonSelectorColor">#21374A</color>
+    <color name="pairRadioButtonSelectorTextColor">#F1F5F7</color>
+    <color name="pairRadioButtonNotSelectedTextColor">#8892A9</color>
+    <color name="bottomNavBarNotSelectedColor">#848EA5</color>
+    <color name="bottomNavBarSelectedColor">#F0F4F7</color>
+    <color name="bottomNavBarBackgroundColor">#131F2F</color>
+
+</resources>
